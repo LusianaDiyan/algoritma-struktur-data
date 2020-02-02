@@ -1,0 +1,8 @@
+﻿  mainQueue.cpp
+  mainStack.cpp
+d:\asdat\labwork5\labwork5\mainstack.cpp(52): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+d:\asdat\labwork5\labwork5\mainstack.cpp(50): warning C4715: 'Pop': not all control paths return a value
+d:\asdat\labwork5\labwork5\mainqueue.cpp(53): warning C4715: 'Dequeue': not all control paths return a value
+mainStack.obj : error LNK2005: _main already defined in mainQueue.obj
+D:\ASDAT\Labwork5\Debug\Labwork5.exe : fatal error LNK1169: one or more multiply defined symbols found

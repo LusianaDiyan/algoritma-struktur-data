@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<riwayat_transaksi>
+	<pembayaran>
+		<pembayaran1>
+			<jumlahpembayaran>Rp 53.500</jumlahpembayaran>
+			<metodepembayaran>OVO Cash</metodepembayaran>
+			<date>
+				<tanggal>02</tanggal>
+				<bulan>September</bulan>
+				<tahun>2019</tahun>
+				<hour>12.24</hour>
+			</date>
+		</pembayaran1>
+		<CashBack1>
+			<jumlahpembayaran>Rp 2475</jumlahpembayaran>
+			<metodepembayaran>OVO Points</metodepembayaran>
+			<date>
+				<tanggal>02</tanggal>
+				<bulan>September</bulan>
+				<tahun>2019</tahun>
+				<hour>12.22</hour>
+			</date>
+		</CashBack1>
+		<pembayaran2>
+			<jumlahpembayaran>Rp 82.500</jumlahpembayaran>
+			<metodepembayaran>OVO Cash</metodepembayaran>
+			<date>
+				<tanggal>02</tanggal>
+				<bulan>September</bulan>
+				<tahun>2019</tahun>
+				<hour>12.22</hour>
+			</date>
+		</pembayaran2>
+		<pembayaran3>
+			<jumlahpembayaran>Rp 256.951</jumlahpembayaran>
+			<metodepembayaran>OVO Cash</metodepembayaran>
+			<date>
+				<tanggal>19</tanggal>
+				<bulan>Agustus</bulan>
+				<tahun>2019</tahun>
+				<hour>18.24</hour>
+			</date>
+		</pembayaran3>
+		<pembayaran4>
+			<jumlahpembayaran>Rp 170.000</jumlahpembayaran>
+			<metodepembayaran>OVO Cash</metodepembayaran>
+			<date>
+				<tanggal>02</tanggal>
+				<bulan>Agustus</bulan>
+				<tahun>2019</tahun>
+				<hour>19.24</hour>
+			</date>
+		</pembayaran4>
+		<CashBack2>
+			<jumlahpembayaran>Rp 5673</jumlahpembayaran>
+			<metodepembayaran>OVO Points</metodepembayaran>
+			<date>
+				<tanggal>02</tanggal>
+				<bulan>Agustus</bulan>
+				<tahun>2019</tahun>
+				<hour>19.24</hour>
+			</date>
+		</CashBack2>
+		<pembayaran5>
+			<jumlahpembayaran>Rp 90.500</jumlahpembayaran>
+			<metodepembayaran>OVO Cash</metodepembayaran>
+			<date>
+				<tanggal>28</tanggal>
+				<bulan>Juli</bulan>
+				<tahun>2019</tahun>
+				<hour>10.24</hour>
+			</date>
+		</pembayaran5>
+		<pembayaran6>
+			<jumlahpembayaran>Rp 490.000</jumlahpembayaran>
+			<metodepembayaran>OVO Cash</metodepembayaran>
+			<date>
+				<tanggal>23</tanggal>
+				<bulan>Juli</bulan>
+				<tahun>2019</tahun>
+				<hour>09.00</hour>
+			</date>
+		</pembayaran6>
+		<CashBack3>
+			<jumlahpembayaran>Rp 490.000</jumlahpembayaran>
+			<metodepembayaran>OVO Cash</metodepembayaran>
+			<date>
+				<tanggal>23</tanggal>
+				<bulan>Juli</bulan>
+				<tahun>2019</tahun>
+				<hour>09.00</hour>
+			</date>
+		</CashBack3>
+		<pembayaran7>
+			<jumlahpembayaran>Rp 430.000</jumlahpembayaran>
+			<metodepembayaran>OVO Cash</metodepembayaran>
+			<date>
+				<tanggal>20</tanggal>
+				<bulan>Juli</bulan>
+				<tahun>2019</tahun>
+				<hour>10.00</hour>
+			</date>
+		</pembayaran7>
+	</pembayaran>
+</riwayat_transaksi>
+		
+	

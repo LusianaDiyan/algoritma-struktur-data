@@ -1,0 +1,2 @@
+﻿main.obj : error LNK2005: _main already defined in encode.obj
+D:\ASDAT\huffman_code\Debug\huffman_code.exe : fatal error LNK1169: one or more multiply defined symbols found

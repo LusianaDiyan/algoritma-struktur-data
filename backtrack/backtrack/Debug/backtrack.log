@@ -1,0 +1,3 @@
+﻿  backtrack.cpp
+d:\asdat\backtrack\backtrack\backtrack.cpp(90): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'petak'
+  backtrack.vcxproj -> D:\ASDAT\backtrack\Debug\backtrack.exe

@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\asdat\huffman\huffman\main.cpp(79): warning C4018: '<': signed/unsigned mismatch
+d:\asdat\huffman\huffman\main.cpp(83): warning C4018: '<': signed/unsigned mismatch
+  huffman.vcxproj -> D:\ASDAT\huffman\Debug\huffman.exe

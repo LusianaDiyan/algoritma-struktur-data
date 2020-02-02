@@ -1,0 +1,8 @@
+﻿  labwork3.cpp
+d:\pens\semester3\algoritma dan struktur data\labwork3\labwork3\labwork3.cpp(99): warning C4018: '>': signed/unsigned mismatch
+d:\pens\semester3\algoritma dan struktur data\labwork3\labwork3\labwork3.cpp(140): warning C4018: '>': signed/unsigned mismatch
+d:\pens\semester3\algoritma dan struktur data\labwork3\labwork3\labwork3.cpp(180): warning C4804: '>': unsafe use of type 'bool' in operation
+d:\pens\semester3\algoritma dan struktur data\labwork3\labwork3\labwork3.cpp(183): warning C4804: '>': unsafe use of type 'bool' in operation
+d:\pens\semester3\algoritma dan struktur data\labwork3\labwork3\labwork3.cpp(204): warning C4804: '>': unsafe use of type 'bool' in operation
+d:\pens\semester3\algoritma dan struktur data\labwork3\labwork3\labwork3.cpp(207): warning C4804: '>': unsafe use of type 'bool' in operation
+  labwork3.vcxproj -> D:\PENS\semester3\algoritma dan struktur data\labwork3\Debug\labwork3.exe

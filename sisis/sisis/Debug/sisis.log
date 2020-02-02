@@ -1,0 +1,10 @@
+﻿  Source.cpp
+d:\asdat\sisis\sisis\source.cpp(7): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\asdat\sisis\sisis\source.cpp(18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\asdat\sisis\sisis\source.cpp(37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\asdat\sisis\sisis\source.cpp(57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\asdat\sisis\sisis\source.cpp(77): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\asdat\sisis\sisis\source.cpp(79): warning C4552: '+': result of expression not used
+d:\asdat\sisis\sisis\source.cpp(91): warning C4326: return type of 'main' should be 'int' instead of 'void'
+d:\asdat\sisis\sisis\source.cpp(92): warning C4101: 'cutOff': unreferenced local variable
+  sisis.vcxproj -> D:\ASDAT\sisis\Debug\sisis.exe
